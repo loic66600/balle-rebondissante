@@ -14,7 +14,7 @@ Appliquer les mathématiques de base pour les calculs de mouvement
 🚀 Comment visualiser le projet
 Clonez ce dépôt sur votre machine locale :
 
-git clone https://github.com/votre-username/balle-rebondissante.git
+git clone 
 
 Ouvrez le fichier index.html dans votre navigateur web.
 Observez la balle rebondir et interagissez avec elle selon les fonctionnalités implémentées.
